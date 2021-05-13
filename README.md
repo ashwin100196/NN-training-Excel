@@ -2,4 +2,4 @@
 
 Consider a simple NN with two inputs, a hidden layer with two neurons and two outputs. The architecture is shown below:
 
-![A simple Neural Network](images/network.jpg)
+![A simple Neural Network](/images/network_arch.jpg)
