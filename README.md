@@ -8,7 +8,8 @@ Consider a simple NN with two inputs, a hidden layer with two neurons and two ou
 
 It can be best expressed through a free flow pseudo code
 
-``` for each epoch
+``` 
+for each epoch
 	for each minibatch
 		do forward pass
 		compute error
